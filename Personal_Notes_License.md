@@ -1,4 +1,4 @@
-# Personal Note License
+# Personal Notes License
 
 ## Target
 Anyone or system who tries to read SNS, blogs, photos, audio, videos, other electric information to which this license is applied, and all information (hereinafter Personal_Notes) that the license user declares to apply the license.
