@@ -15,3 +15,8 @@ Permits reading Personal_Notes only if agree with the Limits.
 - No matter whether it is true or false.
 - No legal liability.
 - This license is subject to change without notice.
+
+## License User
+Anyone can use this License.
+
+
